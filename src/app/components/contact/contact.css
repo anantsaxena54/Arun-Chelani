@@ -440,7 +440,7 @@
 .contact-footer-row {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin-top: 60px;
   padding-top: 32px;
